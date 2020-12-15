@@ -1951,6 +1951,19 @@
     "isChild": true
   },
   {
+    "id": 545,
+    "title": "Marvel's Spider-Man: Miles Morales",
+    "description": "Майлз Моралес пытается следовать по стопам своего кумира Питера Паркера и стать новым Человеком-Пауком. Но ожесточённая борьба за влияние грозит разрушить его дом. И ему необходимо понять, что большая сила влечёт за собой особую ответственность.",
+    "thumbnail": "images/marvel_spider_man_miles_morales/thumbnail.jpg",
+    "image1": "images/marvel_spider_man_miles_morales/1.jpg",
+    "image2": "images/marvel_spider_man_miles_morales/2.jpg",
+    "image3": "images/marvel_spider_man_miles_morales/3.jpg",
+    "video": "https://www.youtube.com/embed/Jv-RVsGh30Y",
+    "category": "ps",
+    "genre": "экшн",
+    "isChild": true
+  },
+  {
     "id": 549,
     "title": "inFAMOUS: Second Son",
     "description": "Воспользуйтесь сверхспособностями Делсина Роу. Принимайте решения, от которых зависит судьба города и людей вокруг вас.",
