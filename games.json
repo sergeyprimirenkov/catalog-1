@@ -2541,5 +2541,18 @@
     "category": "ps",
     "genre": "экшн",
     "isChild": true
+  },
+  {
+    "id": 598,
+    "title": "Just Cause 4",
+    "description": "Добро пожаловать на Солис, огромный остров в Южной Америке, где царят конфликты, тирания и природные катаклизмы. В Just Cause 4 независимый агент Рико Родригес высаживается на Солис, чтобы любой ценой выяснить правду о своем прошлом. Облачайтесь в вингсьют, берите свой полностью настраиваемый крюк и готовьтесь нести разрушения!",
+    "thumbnail": "images/just_cause_4/thumbnail.jpg",
+    "image1": "images/just_cause_4/1.jpg",
+    "image2": "images/just_cause_4/2.jpg",
+    "image3": "images/just_cause_4/3.jpg",
+    "video": "https://www.youtube.com/embed/kyuCGQJuzVk",
+    "category": "ps",
+    "genre": "экшн",
+    "isChild": true
   }]
 }
