@@ -1860,6 +1860,19 @@
     "isChild": false
   },
   {
+    "id": 509,
+    "title": "Call of Duty: Modern Warfare Обновленная версия",
+    "description": "Call of Duty 4: Modern Warfare, одна из самых популярных игр в истории, неоднократно названная «Игрой года» и удостоенная множества почетных наград, возвращается в высокой четкости и с многочисленными улучшениями.",
+    "thumbnail": "images/cod_mw_remastered/thumbnail.jpg",
+    "image1": "images/cod_mw_remastered/1.jpg",
+    "image2": "images/cod_mw_remastered/2.jpg",
+    "image3": "images/cod_mw_remastered/3.jpg",
+    "video": "https://www.youtube.com/embed/WBlJzeh-2yk",
+    "category": "ps",
+    "genre": "экшн",
+    "isChild": false
+  },
+  {
     "id": 514,
     "title": "Mafia III",
     "description": "Нью-Бордо, 1968 год. Во Вьетнаме Линкольн Клей понял одно: семья - это не те, с кем ты вырос, а те, за кого ты готов умереть. Когда итальянская мафия наносит удар в спину черной преступной группировке, заменившей Линкольну семью, он создает новую семью на руинах и принимается мстить, жестоко и умело.",
