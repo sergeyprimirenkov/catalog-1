@@ -2553,6 +2553,19 @@
     "video": "https://www.youtube.com/embed/kyuCGQJuzVk",
     "category": "ps",
     "genre": "экшн",
-    "isChild": true
+    "isChild": false
+  },
+  {
+    "id": 599,
+    "title": "Shadow of the Tomb Raider",
+    "description": "Проникнитесь историей становления Лары Крофт, легендарной расхитительницы гробниц. В Shadow of the Tomb Raider Лару ждут страшные испытания. Спасая мир от апокалипсиса, она станет настоящей расхитительницей гробниц.",
+    "thumbnail": "images/shadow_of_the_tomb_raider/thumbnail.jpg",
+    "image1": "images/shadow_of_the_tomb_raider/1.jpg",
+    "image2": "images/shadow_of_the_tomb_raider/2.jpg",
+    "image3": "images/shadow_of_the_tomb_raider/3.jpg",
+    "video": "https://www.youtube.com/embed/CoLBrnC2F9g",
+    "category": "ps",
+    "genre": "экшн",
+    "isChild": false
   }]
 }
