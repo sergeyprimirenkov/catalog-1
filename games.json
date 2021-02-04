@@ -2593,5 +2593,18 @@
     "category": "ps",
     "genre": "экшн",
     "isChild": false
+  },
+  {
+    "id": 600,
+    "title": "Городские духи",
+    "description": "Вооружайтесь волшебной кистью и начинайте мазок за мазком оживлять заброшенный город Денску, играя за Эша — подростка с ярким воображением и главного героя этого трогательного приключения для PS4 и PSVR",
+    "thumbnail": "images/concrete_genie/thumbnail.jpg",
+    "image1": "images/concrete_genie/1.jpg",
+    "image2": "images/concrete_genie/2.jpg",
+    "image3": "images/concrete_genie/3.jpg",
+    "video": "https://www.youtube.com/embed/RN_IL4yXFDQ",
+    "category": "ps",
+    "genre": "аркада",
+    "isChild": true
   }]
 }
