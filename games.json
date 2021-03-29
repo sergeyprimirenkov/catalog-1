@@ -1587,19 +1587,6 @@
     "isChild": true
   },
   {
-    "id": 314,
-    "title": "Moss",
-    "description": "Moss — динамичное приключение с элементами головоломки для одного игрока, игра сочетает классические элементы — интересных персонажей, захватывающую боевую систему, исследование мира — с новыми возможностями виртуальной реальности.",
-    "thumbnail": "images/moss/thumbnail.jpg",
-    "image1": "images/moss/1.jpg",
-    "image2": "images/moss/2.jpg",
-    "image3": "images/moss/3.jpg",
-    "video": "https://www.youtube.com/embed/Hbsfgsncdzw",
-    "category": "htc",
-    "genre": "приключение",
-    "isChild": true
-  },
-  {
     "id": 315,
     "title": "Arizona Sunshine",
     "description": "Зомби-апокалипсис в виртуальной реальности! В своих попытках найти людей вы должны пробиться сквозь орды зомби, охотящихся за вашим мозгом, с помощью оружия, скудного боезапаса и расходных материалов, которые встретятся на вашем пути.",
@@ -1819,6 +1806,19 @@
     "category": "psvr",
     "genre": "симулятор",
     "isChild": false
+  },
+  {
+    "id": 334,
+    "title": "Moss",
+    "description": "Moss — динамичное приключение с элементами головоломки для одного игрока, игра сочетает классические элементы — интересных персонажей, захватывающую боевую систему, исследование мира — с новыми возможностями виртуальной реальности.",
+    "thumbnail": "images/moss/thumbnail.jpg",
+    "image1": "images/moss/1.jpg",
+    "image2": "images/moss/2.jpg",
+    "image3": "images/moss/3.jpg",
+    "video": "https://www.youtube.com/embed/Hbsfgsncdzw",
+    "category": "psvr",
+    "genre": "приключение",
+    "isChild": true
   },
   {
     "id": 500,
