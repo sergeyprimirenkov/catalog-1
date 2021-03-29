@@ -1588,15 +1588,15 @@
   },
   {
     "id": 314,
-    "title": "StarBlood Arena",
-    "description": "Испытайте характер в соревновании без правил, которое принесет межгалактическую славу только самым умелым пилотам. В этом шутере на аренах с возможностью перемещения на все 360 градусов вам предстоит сражаться за славу, кредиты... и жизнь. А StarBlood Network будет транслировать каждый ваш маневр на всю вселенную, жаждущую захватывающих зрелищ.",
-    "thumbnail": "images/starblood_arena/thumbnail.jpg",
-    "image1": "images/starblood_arena/1.jpg",
-    "image2": "images/starblood_arena/2.jpg",
-    "image3": "images/starblood_arena/3.jpg",
-    "video": "https://www.youtube.com/embed/OOsDp3ZLTXo",
-    "category": "psvr",
-    "genre": "симулятор",
+    "title": "Moss",
+    "description": "Moss — динамичное приключение с элементами головоломки для одного игрока, игра сочетает классические элементы — интересных персонажей, захватывающую боевую систему, исследование мира — с новыми возможностями виртуальной реальности.",
+    "thumbnail": "images/moss/thumbnail.jpg",
+    "image1": "images/moss/1.jpg",
+    "image2": "images/moss/2.jpg",
+    "image3": "images/moss/3.jpg",
+    "video": "https://www.youtube.com/embed/Hbsfgsncdzw",
+    "category": "htc",
+    "genre": "приключение",
     "isChild": true
   },
   {
@@ -1805,6 +1805,32 @@
     "video": "https://www.youtube.com/embed/1XgVb2w_82I",
     "category": "psvr",
     "genre": "экшн",
+    "isChild": false
+  },
+  {
+    "id": 333,
+    "title": "Paper Beast",
+    "description": "Откройте для себя новый мир, рожденный из потерянных данных всемирной паутины. Станьте первым, кто откроет мир, полный экзотических и фантастических существ. Творите и созидайте, чтобы преодолевать трудности и препятствия.",
+    "thumbnail": "images/paper_beast/thumbnail.jpg",
+    "image1": "images/paper_beast/1.jpg",
+    "image2": "images/paper_beast/2.jpg",
+    "image3": "images/paper_beast/3.jpg",
+    "video": "https://www.youtube.com/embed/s0-yAROPC2Y",
+    "category": "psvr",
+    "genre": "симулятор",
+    "isChild": false
+  },
+   {
+    "id": 334,
+    "title": "Paper Beast",
+    "description": "Откройте для себя новый мир, рожденный из потерянных данных всемирной паутины. Станьте первым, кто откроет мир, полный экзотических и фантастических существ. Творите и созидайте, чтобы преодолевать трудности и препятствия.",
+    "thumbnail": "images/paper_beast/thumbnail.jpg",
+    "image1": "images/paper_beast/1.jpg",
+    "image2": "images/paper_beast/2.jpg",
+    "image3": "images/paper_beast/3.jpg",
+    "video": "https://www.youtube.com/embed/s0-yAROPC2Y",
+    "category": "psvr",
+    "genre": "приключение",
     "isChild": false
   },
   {
@@ -2606,5 +2632,19 @@
     "category": "ps",
     "genre": "аркада",
     "isChild": true
+  },
+  {
+    "id": 601,
+    "title": "Subnautica",
+    "description": "Стройте базы на морском дне. Выбирайте компоновку и элементы, контролируйте прочность по мере роста глубины и давления. Используйте базу для хранения ресурсов, стыковки транспорта и пополнения запасов кислорода по мере исследования необъятного океана.
+",
+    "thumbnail": "images/subnautica/thumbnail.jpg",
+    "image1": "images/subnautica/1.jpg",
+    "image2": "images/subnautica/2.jpg",
+    "image3": "images/subnautica/3.jpg",
+    "video": "https://www.youtube.com/embed/sJsIV5Uy9Qs",
+    "category": "ps",
+    "genre": "симулятор",
+    "isChild": false
   }]
 }
