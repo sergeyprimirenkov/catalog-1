@@ -1821,19 +1821,6 @@
     "isChild": false
   },
   {
-    "id": 334,
-    "title": "Paper Beast",
-    "description": "Откройте для себя новый мир, рожденный из потерянных данных всемирной паутины. Станьте первым, кто откроет мир, полный экзотических и фантастических существ. Творите и созидайте, чтобы преодолевать трудности и препятствия.",
-    "thumbnail": "images/paper_beast/thumbnail.jpg",
-    "image1": "images/paper_beast/1.jpg",
-    "image2": "images/paper_beast/2.jpg",
-    "image3": "images/paper_beast/3.jpg",
-    "video": "https://www.youtube.com/embed/s0-yAROPC2Y",
-    "category": "psvr",
-    "genre": "приключение",
-    "isChild": false
-  },
-  {
     "id": 500,
     "title": "Grand Theft Auto V",
     "description": "Лос-Сантос – город ярких огней, долгих ночей и грязных секретов, в чем вы убедитесь с выходом обновления «Ночная жизнь» для GTA Online. Вечеринка начинается.",
