@@ -2192,6 +2192,20 @@
     "isLocalMultiplayer": true
   },
   {
+    "id": 567,
+    "title": "Need for Speed Payback",
+    "description": "Действие происходит в подземном мире Долины Фортуны, вы и ваша команда были разделены предательством и воссоединены местью, чтобы уничтожить Дом, гнусный картель, который управляет городскими казино, преступниками и полицейскими. В этом раю продажных игроков ставки высоки, и Дом всегда выигрывает.",
+    "thumbnail": "images/nfs_payback/thumbnail.jpg",
+    "image1": "images/nfs_payback/1.jpg",
+    "image2": "images/nfs_payback/2.jpg",
+    "image3": "images/nfs_payback/3.jpg",
+    "video": "https://www.youtube.com/embed/9U2MRfv8HQg",
+    "category": "ps",
+    "genre": "гонка",
+    "isChild": true,
+    "isLocalMultiplayer": false
+  },
+  {
     "id": 568,
     "title": "Gran Turismo Sport",
     "description": "Новый стандарт в гоночных соревнованиях.",
