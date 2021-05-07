@@ -1898,6 +1898,32 @@
     "genre": "экшн",
     "isChild": false
   },
+   {
+    "id": 510,
+    "title": "Battlefield 1",
+    "description": "Battlefield 1 погружает вас в эпоху Первой мировой войны, когда новые технологии и глобальный конфликт навсегда изменили принципы военного дела.",
+    "thumbnail": "images/battlefield_1/thumbnail.jpg",
+    "image1": "images/battlefield_1/1.jpg",
+    "image2": "images/battlefield_1/2.jpg",
+    "image3": "images/battlefield_1/3.jpg",
+    "video": "https://www.youtube.com/embed/YkG2e5WWPO0",
+    "category": "ps",
+    "genre": "экшн",
+    "isChild": false
+  },
+  {
+    "id": 511,
+    "title": "Battlefield V",
+    "description": "Участвуйте в крупнейшем военном конфликте в истории в Battlefield V. Серия возвращается к своим истокам и показывает Вторую мировую войну как никогда прежде.",
+    "thumbnail": "images/battlefield_5/thumbnail.jpg",
+    "image1": "images/battlefield_5/1.jpg",
+    "image2": "images/battlefield_5/2.jpg",
+    "image3": "images/battlefield_5/3.jpg",
+    "video": "https://www.youtube.com/embed/FQRNw0jRYxY",
+    "category": "ps",
+    "genre": "экшн",
+    "isChild": false
+  },
   {
     "id": 514,
     "title": "Mafia III",
