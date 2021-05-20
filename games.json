@@ -1496,6 +1496,19 @@
     "isChild": false
   },
   {
+    "id": 116,
+    "title": "Gorilla Tag",
+    "description": "Бегите, прыгайте и карабкайтесь только руками. Обнимите свою внутреннюю обезьяну.",
+    "thumbnail": "images/gorilla_tag/thumbnail.jpg",
+    "image1": "images/gorilla_tag/1.jpg",
+    "image2": "images/gorilla_tag/2.jpg",
+    "image3": "images/gorilla_tag/3.jpg",
+    "video": "https://www.youtube.com/embed/HV1O9TaK_qg",
+    "category": "htc",
+    "genre": "хоррор",
+    "isChild": false
+  },  
+  {
     "id": 300,
     "title": "The Playroom VR",
     "description": "Вместе вы окунетесь в мир захватывающих противоборств и командных игр. Вас ждут «Монстр на свободе», забавные курьезы «Кошек-мышек», пугающие испытания в «Доме с призраками», остросюжетные приключения в платформере для двух игроков «Роботы-спасатели» и путешествие на бандитский Дикий Запад в «Розыске!» — но не забывайте приглядывать за дерзкими проделками виртуальных роботов.",
