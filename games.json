@@ -1505,8 +1505,8 @@
     "image3": "images/gorilla_tag/3.jpg",
     "video": "https://www.youtube.com/embed/HV1O9TaK_qg",
     "category": "htc",
-    "genre": "хоррор",
-    "isChild": false
+    "genre": "симулятор",
+    "isChild": true
   },  
   {
     "id": 300,
