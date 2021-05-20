@@ -1507,7 +1507,20 @@
     "category": "htc",
     "genre": "симулятор",
     "isChild": true
-  },  
+  },
+  {
+    "id": 117,
+    "title": "The Forest",
+    "description": "Как единственный выживший в авиакатастрофе, вы попадаете в таинственный лес, сражаясь за выживание с обществом мутантов-людоедов. Строй, исследуй и выживай в этом симуляторе ужасов на выживание.",
+    "thumbnail": "images/the_forest/thumbnail.jpg",
+    "image1": "images/the_forest/1.jpg",
+    "image2": "images/the_forest/2.jpg",
+    "image3": "images/the_forest/3.jpg",
+    "video": "https://www.youtube.com/embed/ay3tDjnBziY",
+    "category": "htc",
+    "genre": "симулятор",
+    "isChild": false
+  },
   {
     "id": 300,
     "title": "The Playroom VR",
