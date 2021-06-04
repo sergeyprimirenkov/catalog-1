@@ -1925,6 +1925,19 @@
     "isChild": true
   },
   {
+    "id": 335,
+    "title": "STAR WARS: Squadrons",
+    "description": "Освойте искусство сражений на звёздных истребителях в реалистичном симуляторе полёта STAR WARS: Squadrons. Пристегните ремень и ощутите прилив адреналина в крови, участвуя в многопользовательских воздушных схватках от первого лица со своей эскадрильей.",
+    "thumbnail": "images/sw_squadrons/thumbnail.jpg",
+    "image1": "images/sw_squadrons/1.jpg",
+    "image2": "images/sw_squadrons/2.jpg",
+    "image3": "images/sw_squadrons/3.jpg",
+    "video": "https://www.youtube.com/embed/w0eRkhR1z6A",
+    "category": "psvr",
+    "genre": "симулятор",
+    "isChild": false
+  },
+  {
     "id": 500,
     "title": "Grand Theft Auto V",
     "description": "Лос-Сантос – город ярких огней, долгих ночей и грязных секретов, в чем вы убедитесь с выходом обновления «Ночная жизнь» для GTA Online. Вечеринка начинается.",
