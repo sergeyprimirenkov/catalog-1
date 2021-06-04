@@ -2212,7 +2212,7 @@
     "isLocalMultiplayer": true
   },
   {
-    "id": 557,
+    "id": 554,
     "title": "Bombing Busters",
     "description": "Взрывай монстров пачками в 30 лабиринтах! Отправляйся в свой собственный крестовый поход вместе с остроумным Доктором Валлоу и завоюй Галактику в этой убойной аркаде!",
     "thumbnail": "images/bombing_busters/thumbnail.jpg",
@@ -2226,7 +2226,7 @@
     "isLocalMultiplayer": true
   },
   {
-    "id": 558,
+    "id": 555,
     "title": "KNACK",
     "description": "Только герой поневоле Нэк может спасти человечество от безжалостной армии гоблинов. Пустите в ход впечатляющую мощь Нэка, чтобы превратить его в гигантскую боевую машину, сражайтесь с врагами и проникните в тайну, которая потрясет весь мир.",
     "thumbnail": "images/knack/thumbnail.jpg",
@@ -2239,7 +2239,7 @@
     "isChild": true
   },
   {
-    "id": 559,
+    "id": 556,
     "title": "KNACK 2",
     "description": "Присоединяйтесь к Нэку – доброму маленькому герою, который способен вырастать до размеров здания или уменьшаться до полуметра – в его новом приключении.",
     "thumbnail": "images/knack_2/thumbnail.jpg",
@@ -2252,7 +2252,7 @@
     "isChild": true
   },
   {
-    "id": 560,
+    "id": 557,
     "title": "LEGO The Hobbit",
     "description": "Отправляйтесь вместе с Бильбо Бэггинсом в путешествие по Средиземью и помогите гномам вернуть некогда потерянное королевство.",
     "thumbnail": "images/lego_hobbit/thumbnail.jpg",
@@ -2266,7 +2266,7 @@
     "isLocalMultiplayer": true
   },
   {
-    "id": 561,
+    "id": 558,
     "title": "LEGO Jurassic World",
     "description": "LEGO Jurassic World — первая видеоигра, где можно набраться впечатлений изо всех четырёх фильмов о парке Юрского периода в смешной форме LEGO.",
     "thumbnail": "images/lego_jurassic_world/thumbnail.jpg",
@@ -2280,7 +2280,7 @@
     "isLocalMultiplayer": true
   },
   {
-    "id": 562,
+    "id": 559,
     "title": "LEGO The Movie",
     "description": "LEGO Jurassic World — первая видеоигра, где можно набраться впечатлений изо всех четырёх фильмов о парке Юрского периода в смешной форме LEGO.",
     "thumbnail": "images/lego_movie/thumbnail.jpg",
@@ -2294,7 +2294,21 @@
     "isLocalMultiplayer": true
   },
   {
-    "id": 563,
+    "id": 560,
+    "title": "LEGO Суперзлодеи DC",
+    "description": "Хорошо быть плохим… Погрузитесь в новые приключения LEGO®, став лучшим злодеем во вселенной DC.",
+    "thumbnail": "images/lego_supervillains/thumbnail.jpg",
+    "image1": "images/lego_supervillains/1.jpg",
+    "image2": "images/lego_supervillains/2.jpg",
+    "image3": "images/lego_supervillains/3.jpg",
+    "video": "https://www.youtube.com/embed/-3WGanfOwMU",
+    "category": "ps",
+    "genre": "аркада",
+    "isChild": true,
+    "isLocalMultiplayer": true
+  },
+  {
+    "id": 561,
     "title": "Worms Battlegrounds",
     "description": "Worms Battlegrounds объединяет людей в благородном стремлении к самосовершенствованию, мировому господству и взрывающимся овцам.",
     "thumbnail": "images/worms_battlegrounds/thumbnail.jpg",
