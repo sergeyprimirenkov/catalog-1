@@ -1691,6 +1691,19 @@
     "isChild": true
   },
   {
+    "id": 314,
+    "title": "Racket Fury: Table Tennis",
+    "description": "Знакомьтесь: самый реалистичный симулятор настольного тенниса готов подарить вам незабываемые ощущения!",
+    "thumbnail": "images/racket_fury/thumbnail.jpg",
+    "image1": "images/racket_fury/1.jpg",
+    "image2": "images/racket_fury/2.jpg",
+    "image3": "images/racket_fury/3.jpg",
+    "video": "https://www.youtube.com/embed/GsfW-9L65kc",
+    "category": "psvr",
+    "genre": "симулятор",
+    "isChild": true
+  },
+  {
     "id": 315,
     "title": "Arizona Sunshine",
     "description": "Зомби-апокалипсис в виртуальной реальности! В своих попытках найти людей вы должны пробиться сквозь орды зомби, охотящихся за вашим мозгом, с помощью оружия, скудного боезапаса и расходных материалов, которые встретятся на вашем пути.",
