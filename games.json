@@ -2055,6 +2055,32 @@
     "isChild": false
   },
   {
+    "id": 512,
+    "title": "HITMAN",
+    "description": "Рядом с нашим миром есть другой. В нем нет наций, правосудия, этики. Он никогда не спит. Существует повсюду. И попав в него... назад уже не вернуться. Добро пожаловать в мир заказных убийств. Вы — Агент 47, лучший наемный убийца в мире.",
+    "thumbnail": "images/hitman_1/thumbnail.jpg",
+    "image1": "images/hitman_1/1.jpg",
+    "image2": "images/hitman_1/2.jpg",
+    "image3": "images/hitman_1/3.jpg",
+    "video": "https://www.youtube.com/embed/LVqxMCZ3u6k",
+    "category": "ps",
+    "genre": "экшн",
+    "isChild": false
+  },
+  {
+    "id": 513,
+    "title": "HITMAN 2",
+    "description": "HITMAN 2 - это захватывающий шпионский триллер. Путешествуйте по миру и выслеживайте свои цели в экзотических местах. От залитых солнцем улиц до темных и опасных тропических лесов, нигде нельзя спрятаться от Агента 47.",
+    "thumbnail": "images/hitman_2/thumbnail.jpg",
+    "image1": "images/hitman_2/1.jpg",
+    "image2": "images/hitman_2/2.jpg",
+    "image3": "images/hitman_2/3.jpg",
+    "video": "https://www.youtube.com/embed/onEO0pcnLDU",
+    "category": "ps",
+    "genre": "экшн",
+    "isChild": false
+  },
+  {
     "id": 514,
     "title": "Mafia III",
     "description": "Нью-Бордо, 1968 год. Во Вьетнаме Линкольн Клей понял одно: семья - это не те, с кем ты вырос, а те, за кого ты готов умереть. Когда итальянская мафия наносит удар в спину черной преступной группировке, заменившей Линкольну семью, он создает новую семью на руинах и принимается мстить, жестоко и умело.",
