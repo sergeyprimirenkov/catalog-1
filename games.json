@@ -2095,6 +2095,19 @@
   },
   {
     "id": 514,
+    "title": "HITMAN 3",
+    "description": "Смерть ждёт. Агент 47 возвращается в HITMAN 3 — эффектном завершении трилогии.",
+    "thumbnail": "images/hitman_3/thumbnail.jpg",
+    "image1": "images/hitman_3/1.jpg",
+    "image2": "images/hitman_3/2.jpg",
+    "image3": "images/hitman_3/3.jpg",
+    "video": "https://www.youtube.com/embed/RW2B6kYa9mE",
+    "category": "ps",
+    "genre": "экшн",
+    "isChild": false
+  },
+  {
+    "id": 515,
     "title": "Mafia III",
     "description": "Нью-Бордо, 1968 год. Во Вьетнаме Линкольн Клей понял одно: семья - это не те, с кем ты вырос, а те, за кого ты готов умереть. Когда итальянская мафия наносит удар в спину черной преступной группировке, заменившей Линкольну семью, он создает новую семью на руинах и принимается мстить, жестоко и умело.",
     "thumbnail": "images/mafia_iii/thumbnail.jpg",
