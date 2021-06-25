@@ -1847,19 +1847,6 @@
     "isChild": true
   },
   {
-    "id": 327,
-    "title": "Resident Evil 7",
-    "description": "Ознакомьтесь с новой главой легендарной серии, совсем не похожей на что-либо, что вы видели раньше в играх Resident Evil. На сей раз создатели применили новый амбициозный подход, который погрузит вас в настоящий кошмар.",
-    "thumbnail": "images/resident_evil_7/thumbnail.jpg",
-    "image1": "images/resident_evil_7/1.jpg",
-    "image2": "images/resident_evil_7/2.jpg",
-    "image3": "images/resident_evil_7/3.jpg",
-    "video": "https://www.youtube.com/embed/Nba4TX0sjp8",
-    "category": "psvr",
-    "genre": "хоррор",
-    "isChild": false
-  },
-  {
     "id": 328,
     "title": "Here They Lie",
     "description": "Окунитесь в жуткий кошмар в этой мрачной игре ужасов, доступной на PlayStation 4 и PlayStation VR. Исследуйте кошмарный монохромный город, в котором жуткие существа подстерегают вас за каждым углом. Балансируйте на грани жизни и смерти, а еще собственных принципов, и постарайтесь раскрыть тайну женщины в желтом.",
@@ -1922,19 +1909,6 @@
     "video": "https://www.youtube.com/embed/1XgVb2w_82I",
     "category": "psvr",
     "genre": "экшн",
-    "isChild": false
-  },
-  {
-    "id": 333,
-    "title": "Paper Beast",
-    "description": "Откройте для себя новый мир, рожденный из потерянных данных всемирной паутины. Станьте первым, кто откроет мир, полный экзотических и фантастических существ. Творите и созидайте, чтобы преодолевать трудности и препятствия.",
-    "thumbnail": "images/paper_beast/thumbnail.jpg",
-    "image1": "images/paper_beast/1.jpg",
-    "image2": "images/paper_beast/2.jpg",
-    "image3": "images/paper_beast/3.jpg",
-    "video": "https://www.youtube.com/embed/s0-yAROPC2Y",
-    "category": "psvr",
-    "genre": "симулятор",
     "isChild": false
   },
   {
