@@ -1938,6 +1938,19 @@
     "isChild": false
   },
   {
+    "id": 336,
+    "title": "Fracked",
+    "description": "Вы — герой поневоле, который оказался заперт на горной базе. Вы единственная защита планеты от полчищ врагов из других измерений, поэтому цельтесь, стреляйте, лазайте по горам и очертя голову катитесь на лыжах в эту экстремальную приключенческую игру!",
+    "thumbnail": "images/fracked/thumbnail.jpg",
+    "image1": "images/fracked/1.jpg",
+    "image2": "images/fracked/2.jpg",
+    "image3": "images/fracked/3.jpg",
+    "video": "https://www.youtube.com/embed/PiwgUwtJjEA",
+    "category": "psvr",
+    "genre": "экшн",
+    "isChild": false
+  },
+  {
     "id": 500,
     "title": "Grand Theft Auto V",
     "description": "Лос-Сантос – город ярких огней, долгих ночей и грязных секретов, в чем вы убедитесь с выходом обновления «Ночная жизнь» для GTA Online. Вечеринка начинается.",
