@@ -2508,6 +2508,20 @@
   },
   {
     "id": 575,
+    "title": "Mortal Kombat 11",
+    "description": "Mortal Kombat возвращается! И это лучшая версия культовой франшизы!",
+    "thumbnail": "images/mk_11/thumbnail.jpg",
+    "image1": "images/mk_11/1.jpg",
+    "image2": "images/mk_11/2.jpg",
+    "image3": "images/mk_11/3.jpg",
+    "video": "https://www.youtube.com/embed/D2wkVrkPeu4",
+    "category": "ps",
+    "genre": "файтинг",
+    "isChild": false,
+    "isLocalMultiplayer": true
+  },
+  {
+    "id": 576,
     "title": "WWE 2K16",
     "description": "Любители рестлинга могут почувствовать себя настоящими старожилами спорта, схлестнувшись с противниками на ринге и за его пределами. В данной игре имеются все атрибуты, присущие зрелищному шоу: столы, стулья, различные мусорные контейнеры, лестницы и многое другое. Устройте настоящее месиво, прорываясь на вершину спортивного олимпа.",
     "thumbnail": "images/wwe_2k16/thumbnail.jpg",
