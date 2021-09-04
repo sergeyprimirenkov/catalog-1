@@ -2374,6 +2374,20 @@
     "isLocalMultiplayer": true
   },
   {
+    "id": 562,
+    "title": "Тачки 3: Навстречу победе",
+    "description": "Заводи мотор и гони навстречу незабываемому гоночному опыту. Играй более чем 20 настраеваемыми персонажами, включая Молнию Маккуина, Джексона Шторма, Крус Рамирес и новым поколением гонщиков и прокатись по более чем 20 трассам, расположенных в легендарных местах из фильма, таких как Радиатор Спрингс.",
+    "thumbnail": "images/cars_3/thumbnail.jpg",
+    "image1": "images/cars_3/1.jpg",
+    "image2": "images/cars_3/2.jpg",
+    "image3": "images/cars_3/3.jpg",
+    "video": "https://www.youtube.com/embed/G5ha9Z1WcpI",
+    "category": "ps",
+    "genre": "аркада",
+    "isChild": true,
+    "isLocalMultiplayer": true
+  },
+  {
     "id": 564,
     "title": "Minecraft: PlayStation 4 Edition",
     "description": "Minecraft - это игра о том, как разбивать и расставлять блоки. Она дает игрокам возможность исследовать, придумывать и создавать целые миры вместе.",
