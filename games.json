@@ -1977,6 +1977,19 @@
     "isChild": false
   },
   {
+    "id": 337,
+    "title": "The Persistence",
+    "description": "Действие игры The Persistence разворачивается в 2521 году на борту заброшенного колониального корабля в глубоком космосе. Брошенный на произвол судьбы, сломанный и пойманный притяжением черной дыры, The Persistence к тому же переполнен ужасными смертоносными существами. Вы — клон специалиста по безопасности по имени Зимри Эдер. Ваша задача — пробраться по палубам, починить системы и спасти корабль.",
+    "thumbnail": "images/the_persistance/thumbnail.jpg",
+    "image1": "images/the_persistance/1.jpg",
+    "image2": "images/the_persistance/2.jpg",
+    "image3": "images/the_persistance/3.jpg",
+    "video": "https://www.youtube.com/embed/iwMYzJaVzFI",
+    "category": "psvr",
+    "genre": "экшн",
+    "isChild": false
+  },
+  {
     "id": 500,
     "title": "Grand Theft Auto V",
     "description": "Лос-Сантос – город ярких огней, долгих ночей и грязных секретов, в чем вы убедитесь с выходом обновления «Ночная жизнь» для GTA Online. Вечеринка начинается.",
