@@ -2003,6 +2003,19 @@
     "isChild": false
   },
   {
+    "id": 339,
+    "title": "Until You Fall",
+    "description": "В этой игре жанра roguelite фэнтези сочетается с синтвейвом, а битвы на мечах в виртуальной реальности — с физической активностью в реальном мире. Станьте сильнее, сражаясь с магическими чудовищами в невероятном неоновом мире!",
+    "thumbnail": "images/until_you_fall/thumbnail.jpg",
+    "image1": "images/until_you_fall/1.jpg",
+    "image2": "images/until_you_fall/2.jpg",
+    "image3": "images/until_you_fall/3.jpg",
+    "video": "https://www.youtube.com/embed/S1zZHy7_BFg",
+    "category": "psvr",
+    "genre": "экшн",
+    "isChild": false
+  },
+  {
     "id": 500,
     "title": "Grand Theft Auto V",
     "description": "Лос-Сантос – город ярких огней, долгих ночей и грязных секретов, в чем вы убедитесь с выходом обновления «Ночная жизнь» для GTA Online. Вечеринка начинается.",
