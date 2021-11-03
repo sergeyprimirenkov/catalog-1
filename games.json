@@ -1990,6 +1990,19 @@
     "isChild": false
   },
   {
+    "id": 338,
+    "title": "The Walking Dead: Saints & Sinners",
+    "description": "Saints & Sinners - игра, не похожая ни на одну другую во вселенной Ходячих мертвецов. Каждый вызов, с которым вы сталкиваетесь, и решение, которое вы принимаете, зависит от вас. Сражайтесь с нежитью, продирайтесь сквозь руины Нового Орлеана и сталкивайтесь с мучительным выбором для вас и других выживших.",
+    "thumbnail": "images/walking_dead_sas/thumbnail.jpg",
+    "image1": "images/walking_dead_sas/1.jpg",
+    "image2": "images/walking_dead_sas/2.jpg",
+    "image3": "images/walking_dead_sas/3.jpg",
+    "video": "https://www.youtube.com/embed/lunEgeczpyk",
+    "category": "psvr",
+    "genre": "экшн",
+    "isChild": false
+  },
+  {
     "id": 500,
     "title": "Grand Theft Auto V",
     "description": "Лос-Сантос – город ярких огней, долгих ночей и грязных секретов, в чем вы убедитесь с выходом обновления «Ночная жизнь» для GTA Online. Вечеринка начинается.",
