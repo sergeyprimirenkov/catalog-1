@@ -2081,6 +2081,19 @@
     "isChild": false
   },
   {
+    "id": 504,
+    "title": "Cyberpunk 2077",
+    "description": "Cyberpunk 2077 — приключенческая ролевая игра, действие которой происходит в мегаполисе Найт-Сити, где власть, роскошь и модификации тела ценятся выше всего. Вы играете за V, наёмника в поисках устройства, позволяющего обрести бессмертие.",
+    "thumbnail": "images/cyberpunk_2077/thumbnail.jpg",
+    "image1": "images/cyberpunk_2077/1.jpg",
+    "image2": "images/cyberpunk_2077/2.jpg",
+    "image3": "images/cyberpunk_2077/3.jpg",
+    "video": "https://www.youtube.com/embed/ZBLTSCIBhN8",
+    "category": "ps",
+    "genre": "экшн",
+    "isChild": false
+  },
+  {
     "id": 508,
     "title": "Call of Duty: Black Ops III",
     "description": "Call of Duty: Black Ops III содержит два игровых режима: многопользовательский и режим 'Зомби', которые обеспечат поклонникам серии отличную сетевую игру и мрачное увлекательное приключение, вдохновленное классическими фильмами сороковых.",
