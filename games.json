@@ -2987,5 +2987,18 @@
     "category": "ps",
     "genre": "симулятор",
     "isChild": false
+  },
+  {
+    "id": 603,
+    "title": "Губка Боб Квадратные Штаны",
+    "description": "Вы готовы, дети? Культовая история возвращается в обновленном виде! Играйте за любимых персонажей и спасите Бикини-Боттом!",
+    "thumbnail": "images/sponge_bob/thumbnail.jpg",
+    "image1": "images/sponge_bob/1.jpg",
+    "image2": "images/sponge_bob/2.jpg",
+    "image3": "images/sponge_bob/3.jpg",
+    "video": "https://www.youtube.com/embed/V1iyBfjgjxk",
+    "category": "ps",
+    "genre": "аркада",
+    "isChild": true
   }]
 }
