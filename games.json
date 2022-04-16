@@ -2042,6 +2042,19 @@
     "isChild": false
   },
   {
+    "id": 340,
+    "title": "Marvel's Iron Man VR",
+    "description": "Уже несколько лет как всемирно известный супергерой Тони Старк оставил производство оружия и занимается созданием технологий, которые помогут Железному Человеку в борьбе со злом.",
+    "thumbnail": "images/iron_man_vr/thumbnail.jpg",
+    "image1": "images/iron_man_vr/1.jpg",
+    "image2": "images/iron_man_vr/2.jpg",
+    "image3": "images/iron_man_vr/3.jpg",
+    "video": "https://www.youtube.com/embed/Xp7CAaCenyA",
+    "category": "psvr",
+    "genre": "экшн",
+    "isChild": true
+  },
+  {
     "id": 500,
     "title": "Grand Theft Auto V",
     "description": "Лос-Сантос – город ярких огней, долгих ночей и грязных секретов, в чем вы убедитесь с выходом обновления «Ночная жизнь» для GTA Online. Вечеринка начинается.",
