@@ -2693,13 +2693,13 @@
   },
   {
     "id": 578,
-    "title": "FIFA 20",
-    "description": "FIFA 20 воссоздает два разных аспекта главной игры мира — престиж профессионального футбола и азарт уличной игры в совершенно новом режиме EA SPORTS VOLTA. FIFA 20 — это инновации во всем: система ФУТБОЛЬНОГО ИНТЕЛЛЕКТА открывает небывалые возможности реалистичности игрового процесса, FIFA Ultimate Team™ дает еще больше способов создания команды мечты, а EA SPORTS VOLTA возвращает футбол на улицы в реалистичных матчах с минимумом игроков.",
-    "thumbnail": "images/fifa_20/thumbnail.jpg",
-    "image1": "images/fifa_20/1.jpg",
-    "image2": "images/fifa_20/2.jpg",
-    "image3": "images/fifa_20/3.jpg",
-    "video": "https://www.youtube.com/embed/rrSpkJhZSuU",
+    "title": "FIFA 22",
+    "description": "Заряжено футболом. EA SPORTS™ FIFA 22 как никогда приближает игру к реальности с фундаментальным улучшением игрового процесса и инновациями во всех режимах.",
+    "thumbnail": "images/fifa_22/thumbnail.jpg",
+    "image1": "images/fifa_22/1.jpg",
+    "image2": "images/fifa_22/2.jpg",
+    "image3": "images/fifa_22/3.jpg",
+    "video": "https://www.youtube.com/embed/o1igaMv46SY",
     "category": "ps",
     "genre": "спорт",
     "isChild": true,
@@ -2844,19 +2844,6 @@
     "isLocalMultiplayer": true
   },
   {
-    "id": 589,
-    "title": "Death Stranding",
-    "description": "Отважьтесь преодолеть мир, трансформированный Петлей смерти. Держите в своих руках бессвязные остатки нашего будущего и отправляйтесь в дорогу, чтобы восстановить связь между осколками мира. В главных ролях: Норман Ридус, Мадс Миккельсен, Леа Сейду и Линдси Вагнер.",
-    "thumbnail": "images/death_stranding/thumbnail.jpg",
-    "image1": "images/death_stranding/1.jpg",
-    "image2": "images/death_stranding/2.jpg",
-    "image3": "images/death_stranding/3.jpg",
-    "video": "https://www.youtube.com/embed/41FRpY-JcN4",
-    "category": "ps",
-    "genre": "экшн",
-    "isChild": false
-  },
-  {
     "id": 590,
     "title": "Red Dead Redemption 2",
     "description": "Америка, 1899 год. Эпоха Дикого Запада подходит к концу. Служители закона методично охотятся на остатки банд. Тех, кто не желает сдаваться, убивают. После сорвавшегося ограбления банка в западном городе Блэкуотер Артур Морган и другие подручные Датча ван дер Линде вынуждены пуститься в бега. Их банде предстоит участвовать в кражах, грабежах и перестрелках в самом сердце Америки, на неприветливой земле, где каждый день – это борьба за выживание.",
@@ -2865,19 +2852,6 @@
     "image2": "images/rdr2/2.jpg",
     "image3": "images/rdr2/3.jpg",
     "video": "https://www.youtube.com/embed/mbxvJpr1BV4",
-    "category": "ps",
-    "genre": "экшн",
-    "isChild": false
-  },
-  {
-    "id": 591,
-    "title": "Uncharted: Натан Дрейк. Kоллекция",
-    "description": "История Натана Дрейка, которая началась в рыбацкой лодке у побережья Панамы, со временем стала синонимом слова «приключение». Uncharted: Drake’s Fortune, Uncharted 2: Among Thieves и «Uncharted 3: Иллюзии Дрейка» – три невероятно популярные игры впервые собраны вместе и обновлены для PS4. Это Uncharted: The Nathan Drake Collection.",
-    "thumbnail": "images/uncharted_collection/thumbnail.jpg",
-    "image1": "images/uncharted_collection/1.jpg",
-    "image2": "images/uncharted_collection/2.jpg",
-    "image3": "images/uncharted_collection/3.jpg",
-    "video": "https://www.youtube.com/embed/-mH2SVyBMAQ",
     "category": "ps",
     "genre": "экшн",
     "isChild": false
@@ -2896,33 +2870,6 @@
     "isChild": true
   },
   {
-    "id": 593,
-    "title": "Brawlhalla",
-    "description": "Выходите на арену вечных сражений и сразитесь с другими великими воинами в этом файтинговом платформере.",
-    "thumbnail": "images/brawlhalla/thumbnail.jpg",
-    "image1": "images/brawlhalla/1.jpg",
-    "image2": "images/brawlhalla/2.jpg",
-    "image3": "images/brawlhalla/3.jpg",
-    "video": "https://www.youtube.com/embed/baixpNzE9es",
-    "category": "ps",
-    "genre": "файтинг",
-    "isChild": true,
-    "isLocalMultiplayer": true
-  },
-  {
-    "id": 594,
-    "title": "BioShock Infinite",
-    "description": "У бывшего пинкертоновского агента Букера ДеВитта есть только один шанс начать жизнь с чистого листа. Ему предстоит спасти Элизабет, таинственную девушку, которую с детства держат узницей в летающем городе Колумбия с самого детства. Вынужденные довериться друг другу, Букер и Элизабет понимают: только вместе им удастся совершить побег.",
-    "thumbnail": "images/bioshock_infinite/thumbnail.jpg",
-    "image1": "images/bioshock_infinite/1.jpg",
-    "image2": "images/bioshock_infinite/2.jpg",
-    "image3": "images/bioshock_infinite/3.jpg",
-    "video": "https://www.youtube.com/embed/EsJ55BzIvkE",
-    "category": "ps",
-    "genre": "экшн",
-    "isChild": false
-  },
-  {
     "id": 595,
     "title": "Plants vs. Zombies: Битва за Нейборвиль",
     "description": "Добро пожаловать в Нейборвиль, где жизнь идет своим чередом. Между безмозглыми и растениями назревает новый безумный конфликт! Что вы сделаете? Соберете урожай? Удобрите растения? Задайте жару на газоне в битве между растениями и зомби, в которой вам придется сражаться в самых дальних уголках Нейборвиля.",
@@ -2935,32 +2882,6 @@
     "genre": "аркада",
     "isChild": true,
     "isLocalMultiplayer": true
-  },
-  {
-    "id": 596,
-    "title": "Sonic Forces",
-    "description": "Sonic Forces – новая игра про Соника, в которой вас ждет возможность создания собственного персонажа, мощнейшие гаджеты, безумный бег среди руин с Современным Соником и маневры на гибельных платформах с Классическим Соником. Погрузитесь в стремительный игровой процесс с тремя непохожими стилями, исследуйте классические уровни и сражайтесь в совершенно новых, играя за Шэдоу!",
-    "thumbnail": "images/sonic_forces/thumbnail.jpg",
-    "image1": "images/sonic_forces/1.jpg",
-    "image2": "images/sonic_forces/2.jpg",
-    "image3": "images/sonic_forces/3.jpg",
-    "video": "https://www.youtube.com/embed/1BYh9ytI8jg",
-    "category": "ps",
-    "genre": "аркада",
-    "isChild": true
-  },
-  {
-    "id": 597,
-    "title": "Another World – 20th Anniversary Edition",
-    "description": "Лестер Чайкин попал в переплет. Из-за того, что опасный опыт вышел из-под контроля, юный ученый оказался в странном, враждебном и совершенно чуждом мире. Удастся ли Лестеру выжить и найти способ вернуться домой?",
-    "thumbnail": "images/another_world/thumbnail.jpg",
-    "image1": "images/another_world/1.jpg",
-    "image2": "images/another_world/2.jpg",
-    "image3": "images/another_world/3.jpg",
-    "video": "https://www.youtube.com/embed/DIPcQqepYlI",
-    "category": "ps",
-    "genre": "экшн",
-    "isChild": true
   },
   {
     "id": 598,
@@ -3025,7 +2946,7 @@
     "video": "https://www.youtube.com/embed/sJsIV5Uy9Qs",
     "category": "ps",
     "genre": "симулятор",
-    "isChild": false
+    "isChild": true
   },
   {
     "id": 603,
@@ -3039,5 +2960,46 @@
     "category": "ps",
     "genre": "аркада",
     "isChild": true
+  },
+  {
+    "id": 604,
+    "title": "Nickelodeon All-Star Brawl",
+    "description": "Выберите любимого персонажа Nickelodeon и сразитесь в крутейших битвах на платформах!",
+    "thumbnail": "images/nickelodeon_brawl/thumbnail.jpg",
+    "image1": "images/nickelodeon_brawl/1.jpg",
+    "image2": "images/nickelodeon_brawl/2.jpg",
+    "image3": "images/nickelodeon_brawl/3.jpg",
+    "video": "https://www.youtube.com/embed/xmXEt9lgpz0",
+    "category": "ps",
+    "genre": "файтинг",
+    "isChild": true,
+    "isLocalMultiplayer": true
+  },
+  {
+    "id": 605,
+    "title": "Naruto to Boruto: Shinobi Striker",
+    "description": "Игрокам предстоит собрать группу из 4 ниндзя и сразиться с другими по сети! Графика в SHINOBI STRIKER создавалась с нуля. Посмотрите на мир свежим взглядом и докажите, что вы — сильнейшие ниндзя во всем мире!",
+    "thumbnail": "images/shinobi_striker/thumbnail.jpg",
+    "image1": "images/shinobi_striker/1.jpg",
+    "image2": "images/shinobi_striker/2.jpg",
+    "image3": "images/shinobi_striker/3.jpg",
+    "video": "https://www.youtube.com/embed/U0cln94ML1w",
+    "category": "ps",
+    "genre": "файтинг",
+    "isChild": false
+  },
+    {
+    "id": 606,
+    "title": "Team Sonic Racing",
+    "description": "Team Sonic Racing совмещает лучшие элементы аркады и головокружительной азартной гонки. Соревнуйтесь с друзьями в напряженной многопользовательской гонке, мчитесь вместе по невероятным мирам и помогайте друг друг, делясь усилениями и ускорениями.",
+    "thumbnail": "images/sonic_racing/thumbnail.jpg",
+    "image1": "images/sonic_racing/1.jpg",
+    "image2": "images/sonic_racing/2.jpg",
+    "image3": "images/sonic_racing/3.jpg",
+    "video": "https://www.youtube.com/embed/U0cln94ML1w",
+    "category": "ps",
+    "genre": "гонка",
+    "isChild": true,
+    "isLocalMultiplayer": true
   }]
 }
