@@ -547,19 +547,6 @@
     "isChild": false
   },
   {
-    "id": 43,
-    "title": "Contagion VR: Outbreak",
-    "description": "Полностью погрузитесь в мир, изначально знакомый вам, и станьте свидетелем его превращения во что-то намного более мрачное, поскольку оно быстро меняется прямо на ваших глазах. Конец света, каким мы его знаем, наполнен ужасами, подобных которым никогда не понимали, но во всей тьме - маяк света, рассказы о героизме и жертвах, принесённые другими.",
-    "thumbnail": "images/contagion_outbreak/thumbnail.jpg",
-    "image1": "images/contagion_outbreak/1.jpg",
-    "image2": "images/contagion_outbreak/2.jpg",
-    "image3": "images/contagion_outbreak/3.jpg",
-    "video": "https://www.youtube.com/embed/7V_xb6nJ7Wk",
-    "category": "htc",
-    "genre": "экшн",
-    "isChild": false
-  },
-  {
     "id": 44,
     "title": "PAYDAY 2: VR",
     "description": "В PAYDAY 2: VR вы сможете грабить банки, проникать в художественную галерею, взрывать некоторых байкеров в их штаб-квартире или врываться в офис ФБР, и вы можете делать это с тремя своими друзьями - независимо от того, есть ли у них VR-гарнитура или нет.",
@@ -1470,19 +1457,6 @@
     "isChild": true
   },
   {
-    "id": 114,
-    "title": "GangV",
-    "description": "GangV - это королевская битва в живой среде, где есть движение, толпы и правоохранительные органы! Украдите деньги, оборудование и транспортные средства и столкнитесь с последствиями. Спрячьтесь среди гражданских, чтобы убить своих противников",
-    "thumbnail": "images/gangv/thumbnail.jpg",
-    "image1": "images/gangv/1.jpg",
-    "image2": "images/gangv/2.jpg",
-    "image3": "images/gangv/3.jpg",
-    "video": "https://www.youtube.com/embed/fy2zsLAnul8",
-    "category": "htc",
-    "genre": "многопользовательская",
-    "isChild": false
-  },
-  {
     "id": 115,
     "title": "Sleep Tight",
     "description": "Sleep Tight - это быстроразвивающаяся игра ужасов. Выживайте среди волн монстров, если сможете, обновляйте различное оружие, чтобы помочь себе. Помните, будьте внимательны, слушайте и не позволяйте им добраться до вас!",
@@ -1517,19 +1491,6 @@
     "image2": "images/the_forest/2.jpg",
     "image3": "images/the_forest/3.jpg",
     "video": "https://www.youtube.com/embed/ay3tDjnBziY",
-    "category": "htc",
-    "genre": "симулятор",
-    "isChild": false
-  },
-  {
-    "id": 118,
-    "title": "Hot Dogs, Horseshoes & Hand Grenades",
-    "description": "Вы любите хот-доги? А подковы? Ручные гранаты? (всем нравятся ручные гранаты) В общем, у нас есть все это, и оружие. ТАК МНОГО ОРУЖИЯ. Так что если вы любите боеприпасы, эта VR-песочница для вас.",
-    "thumbnail": "images/hot_dogs/thumbnail.jpg",
-    "image1": "images/hot_dogs/1.jpg",
-    "image2": "images/hot_dogs/2.jpg",
-    "image3": "images/hot_dogs/3.jpg",
-    "video": "https://www.youtube.com/embed/jF7gachwVr0",
     "category": "htc",
     "genre": "симулятор",
     "isChild": false
@@ -1597,6 +1558,19 @@
     "video": "https://www.youtube.com/embed/Hn5xuJwFu1I",
     "category": "htc",
     "genre": "файтинг",
+    "isChild": false
+  },
+  {
+    "id": 124,
+    "title": "Phasmophobia",
+    "description": "Phasmophobia - это онлайн-кооперативный психологический хоррор до 4 игроков. Паранормальная активность растет, и вам и вашей команде предстоит использовать все имеющееся в вашем распоряжении оборудование для охоты на призраков, чтобы собрать как можно больше доказательств.",
+    "thumbnail": "images/phasmophobia/thumbnail.jpg",
+    "image1": "images/phasmophobia/1.jpg",
+    "image2": "images/phasmophobia/2.jpg",
+    "image3": "images/phasmophobia/3.jpg",
+    "video": "https://www.youtube.com/embed/sRa9oeo5KiY",
+    "category": "htc",
+    "genre": "хоррор",
     "isChild": false
   },
   {
