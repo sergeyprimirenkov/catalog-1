@@ -2542,7 +2542,8 @@
     "video": "https://www.youtube.com/embed/UW_VWFVTMFQ",
     "category": "ps",
     "genre": "гонка",
-    "isChild": true
+    "isChild": true,
+    "isLocalMultiplayer": true
   },
   {
     "id": 569,
@@ -2568,7 +2569,8 @@
     "video": "https://www.youtube.com/embed/rPIj7Lxi-Q8",
     "category": "ps",
     "genre": "гонка",
-    "isChild": true
+    "isChild": true,
+    "isLocalMultiplayer": true
   },
   {
     "id": 571,
