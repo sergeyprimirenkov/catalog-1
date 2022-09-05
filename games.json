@@ -2559,6 +2559,19 @@
   },
   {
     "id": 570,
+    "title": "DIRT 5",
+    "description": "DIRT 5 — пока что самая дерзкая игра в легендарной франшизе гонок по бездорожью от Codemasters. Станьте частью атмосферы DIRT 5, где царит дух экстрима, абсолютное самовыражение и безудержный стиль. Здесь еще больше новшеств и адреналина!",
+    "thumbnail": "images/dirt_5/thumbnail.jpg",
+    "image1": "images/dirt_5/1.jpg",
+    "image2": "images/dirt_5/2.jpg",
+    "image3": "images/dirt_5/3.jpg",
+    "video": "https://www.youtube.com/embed/rPIj7Lxi-Q8",
+    "category": "ps",
+    "genre": "гонка",
+    "isChild": true
+  },
+  {
+    "id": 571,
     "title": "Crossout",
     "description": "Crossout — это постапокалиптический экшн, в котором вы сможете собрать из десятков деталей бронемашину уникального дизайна, а затем сразиться на ней в жарких многопользовательских боях.",
     "thumbnail": "images/crossout/thumbnail.jpg",
@@ -2566,19 +2579,6 @@
     "image2": "images/crossout/2.jpg",
     "image3": "images/crossout/3.jpg",
     "video": "https://www.youtube.com/embed/XTQnM4VMcik",
-    "category": "ps",
-    "genre": "многопользовательская",
-    "isChild": true
-  },
-  {
-    "id": 571,
-    "title": "War Thunder",
-    "description": "War Thunder – самая масштабная бесплатная многопользовательская онлайн-игра, посвященная боевой технике Второй мировой и холодной войн. Авиация, наземные силы и флот сражаются вместе в одном бою, как это и происходило в настоящих сражениях.",
-    "thumbnail": "images/war_thunder/thumbnail.jpg",
-    "image1": "images/war_thunder/1.jpg",
-    "image2": "images/war_thunder/2.jpg",
-    "image3": "images/war_thunder/3.jpg",
-    "video": "https://www.youtube.com/embed/4WSxO1Rzqwo",
     "category": "ps",
     "genre": "многопользовательская",
     "isChild": true
