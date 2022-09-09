@@ -2518,6 +2518,19 @@
     "isChild": true
   },
   {
+    "id": 565,
+    "title": "Need for Speed Heat",
+    "description": "Устраивайте гонки днём и ставьте на кон всё ночью в Need for Speed™ Heat — захватывающей игре, в которой вам предстоит столкнуться с лучшими силами полиции и покорить мир уличных гонок.",
+    "thumbnail": "images/nfs_heat/thumbnail.jpg",
+    "image1": "images/nfs_heat/1.jpg",
+    "image2": "images/nfs_heat/2.jpg",
+    "image3": "images/nfs_heat/3.jpg",
+    "video": "https://www.youtube.com/embed/9ewiJJe_nYI",
+    "category": "ps",
+    "genre": "гонка",
+    "isChild": true
+  },
+  {
     "id": 567,
     "title": "Need for Speed Payback",
     "description": "Действие происходит в подземном мире Долины Фортуны, вы и ваша команда были разделены предательством и воссоединены местью, чтобы уничтожить Дом, гнусный картель, который управляет городскими казино, преступниками и полицейскими. В этом раю продажных игроков ставки высоки, и Дом всегда выигрывает.",
@@ -2529,7 +2542,7 @@
     "category": "ps",
     "genre": "гонка",
     "isChild": true,
-    "isLocalMultiplayer": false
+    "isLocalMultiplayer": true
   },
   {
     "id": 568,
