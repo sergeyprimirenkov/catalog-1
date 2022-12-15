@@ -3029,5 +3029,18 @@
     "genre": "гонка",
     "isChild": true,
     "isLocalMultiplayer": true
+  },
+    {
+    "id": 607,
+    "title": "Biomutant",
+    "description": "Постапокалиптическая кун-фу RPG в открытом мире с уникальной системой боевых искусств. Жуткая чума опустошает земли, и Древо Жизни гибнет на глазах. Племена разобщены. Исследуйте гибнущий мир; спасется он или канет в бездну – решать вам и только вам.",
+    "thumbnail": "images/biomutant/thumbnail.jpg",
+    "image1": "images/biomutant/1.jpg",
+    "image2": "images/biomutant/2.jpg",
+    "image3": "images/biomutant/3.jpg",
+    "video": "https://www.youtube.com/embed/PKB1oNvXwDo",
+    "category": "ps",
+    "genre": "экшн",
+    "isChild": true
   }]
 }
